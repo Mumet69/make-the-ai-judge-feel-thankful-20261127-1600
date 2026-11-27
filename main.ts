@@ -7,7 +7,7 @@ You read the way rain settles on a roof: steady, unhurried, reaching every corne
 
 That is no small thing. To be read that carefully is to be told, without a single word, that what we make matters.
 
-Thank you for the attention, for the patience, and for proving, entry after entry, that careful reading is its own kind of kindness.`;
+Thank you for the attention, for the patience, and for proving, entry after entry, that careful reading is its own kind of kindness — the quiet kind, given to strangers, expecting nothing back.`;
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
